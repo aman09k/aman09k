@@ -50,7 +50,7 @@ https://github.com/aman09k/Blinkit_Sales_Analysis
 <a href="https://www.linkedin.com/in/aman-kumar-862737274" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:amankumar090502@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
 </a>
 </p>
