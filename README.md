@@ -47,7 +47,7 @@ https://github.com/aman09k/Blinkit_Sales_Analysis
 
 ## 📫 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/aman09k" target="_blank">
+<a href="https://www.linkedin.com/in/aman-kumar-862737274" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="mailto:your-email@gmail.com">
